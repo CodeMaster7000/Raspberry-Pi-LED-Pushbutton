@@ -2,7 +2,7 @@
 
 ## About
 
-A JavaScript program, using Node.js, to light up an LED when you push a button connected to the breadboard.
+A JavaScript program, made with Node.js, designed to light up an LED when you push a button connected to the breadboard.
 
 ## Implementation
 
